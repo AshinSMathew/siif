@@ -21,7 +21,7 @@ const navLinks = [
     name: "About Us",
     href: "#about",
     subLinks: [
-      { name: "About SIIF", href: "#about-siif" },
+      { name: "About SIIF", href: "/about-siif" },
       { name: "Management Team", href: "#management" },
       { name: "SIIF In Media", href: "#media" },
       { name: "Network", href: "#network" },

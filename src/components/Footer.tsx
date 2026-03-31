@@ -44,7 +44,7 @@ export const Footer = () => {
               <Link href="/" className="text-[clamp(18px,2.5vw,24px)] font-semibold leading-[115.967%] tracking-[-0.04em] text-[#565555] font-hanken hover:opacity-70 transition-opacity whitespace-nowrap">
                 Home
               </Link>
-              <Link href="/about" className="text-[clamp(18px,2.5vw,24px)] font-semibold leading-[115.967%] tracking-[-0.04em] text-[#565555] font-hanken hover:opacity-70 transition-opacity whitespace-nowrap">
+              <Link href="/about-siif" className="text-[clamp(18px,2.5vw,24px)] font-semibold leading-[115.967%] tracking-[-0.04em] text-[#565555] font-hanken hover:opacity-70 transition-opacity whitespace-nowrap">
                 About
               </Link>
               <Link href="/incubation" className="text-[clamp(18px,2.5vw,24px)] font-semibold leading-[115.967%] tracking-[-0.04em] text-[#565555] font-hanken hover:opacity-70 transition-opacity whitespace-nowrap">
